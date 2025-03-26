@@ -1,2 +1,8 @@
-# Tomato-clone-A-Food-Delievery-App
-Tomato-Clone is a full-stack food delivery application inspired by popular platforms. Built using the MERN stack (MongoDB, Express, React, Node.js), it offers a seamless experience for customers, administrators, and delivery personnel.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
